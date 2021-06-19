@@ -1,0 +1,244 @@
+,lift,confidence,support
+"frozenset({'income <50K', 'occupation_Adm-clerical'})",1.140052867983484,0.8655172413793103,0.1002119099536255
+"frozenset({'income <50K', 'age-category_61+'})",1.005969100928686,0.763722126929674,0.054697337305365315
+"frozenset({'income <50K', 'workclass_Private'})",1.0291582484488948,0.7813271060979908,0.5446085808175425
+"frozenset({'income <50K', 'occupation_Sales'})",0.9624527530256682,0.7306849315068493,0.08190780381437916
+"frozenset({'income <50K', 'occupation_Machine-op-inspct'})",1.1527079716400104,0.875124875124875,0.05380670126838856
+"frozenset({'income <50K', 'workclass_Self-emp-not-inc'})",0.9418885774909606,0.7150728059818969,0.05580295445471577
+"frozenset({'income <50K', 'age-category_25-30'})",1.1536626530617526,0.8758496601359457,0.13454746475845336
+"frozenset({'income <50K', 'age-category_31-40'})",0.9463564588971014,0.7184647788439037,0.18856914713921563
+"frozenset({'income <50K', 'marital-status_Divorced'})",1.179929411524765,0.8957911321179384,0.12223211817818863
+"frozenset({'income <50K', 'occupation_Other-service'})",1.2624261286346383,0.9584218512898331,0.09698719326802002
+"frozenset({'income <50K', 'age-category_-25'})",1.302767288060751,0.9890484739676841,0.1691901354381008
+"frozenset({'income <50K', 'sex_Female'})",1.1730118840624124,0.8905394113824157,0.29458554712693097
+"frozenset({'income <50K', 'race_White'})",0.980175752436492,0.7441400632729364,0.6356991492890267
+"frozenset({'income <50K', 'sex_Male'})",0.9144786138946194,0.6942634235888022,0.46460489542704464
+"frozenset({'income <50K', 'occupation_Prof-specialty'})",0.7257285559620406,0.5509661835748791,0.07005313104634378
+"frozenset({'income <50K', 'education_Higher'})",0.9477329153762953,0.7195097714474992,0.33355855164153436
+"frozenset({'income <50K', 'race_Black'})",1.1540192149513733,0.8761203585147247,0.08405761493811616
+"frozenset({'education_Basic', 'income <50K'})",1.1458700328318623,0.86993357733496,0.3941832253309174
+"frozenset({'income <50K', 'marital-status_Never-married'})",1.2566532375940118,0.9540391275858842,0.31301249961610517
+"frozenset({'income <50K', 'age-category_51-60'})",0.8235644352405861,0.6252422480620154,0.07926660729093087
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse'})",0.7286073143134733,0.5531517094017093,0.2544147907005313
+"frozenset({'income <50K', 'occupation_Exec-managerial'})",0.6796532178600025,0.5159862272503689,0.06443291053714567
+"frozenset({'income <50K', 'age-category_41-50'})",0.8163839875573919,0.6197909208076757,0.13291975062190964
+"frozenset({'income <50K', 'occupation_Craft-repair'})",1.018663187248291,0.7733593559404733,0.0973557323178035
+"frozenset({'income <50K', 'race_White', 'occupation_Sales'})",0.9412006127572276,0.7145505097312327,0.07103590184576641
+"frozenset({'income <50K', 'marital-status_Never-married', 'age-category_31-40'})",1.1885124786911394,0.9023073146784486,0.05644789779183686
+"frozenset({'income <50K', 'workclass_Private', 'occupation_Other-service'})",1.2691198355892568,0.9635036496350365,0.08107859095236633
+"frozenset({'income <50K', 'race_White', 'sex_Male'})",0.8988977054114881,0.6824345467821008,0.4018611222014066
+"frozenset({'income <50K', 'race_White', 'education_Higher'})",0.9286455554535756,0.7050188302205825,0.281717391971991
+"frozenset({'income <50K', 'race_White', 'occupation_Prof-specialty'})",0.7103676099734169,0.5393043001917283,0.06047111575197322
+"frozenset({'income <50K', 'workclass_Private', 'age-category_-25'})",1.3040325946697473,0.9900090826521345,0.13390252142133227
+"frozenset({'income <50K', 'sex_Female', 'occupation_Adm-clerical'})",1.2071236476841771,0.9164367363027198,0.0714044408955499
+"frozenset({'income <50K', 'education_Higher', 'age-category_25-30'})",1.1037041934419276,0.8379216750678558,0.06636774054850895
+"frozenset({'income <50K', 'workclass_Private', 'sex_Female'})",1.1938331918101939,0.9063467492260062,0.21577961364822948
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'sex_Male'})",0.7299495653215556,0.554170733538554,0.22668222720432418
+"frozenset({'income <50K', 'sex_Female', 'age-category_31-40'})",1.1072425349416188,0.8406079501169135,0.06624489419858112
+"frozenset({'education_Basic', 'income <50K', 'race_White'})",1.131073301558807,0.858700040371417,0.3266177328706121
+"frozenset({'income <50K', 'occupation_Craft-repair', 'sex_Male'})",1.0083640722441616,0.7655403662625742,0.0911519916464482
+"frozenset({'education_Basic', 'age-category_41-50', 'income <50K'})",1.036229574561188,0.7866955892986262,0.0668284143607383
+"frozenset({'education_Basic', 'occupation_Craft-repair', 'income <50K'})",1.0792187575645853,0.8193325661680093,0.06559995086146003
+"frozenset({'income <50K', 'age-category_-25', 'sex_Female'})",1.308264217933035,0.9932216905901118,0.07650256441755475
+"frozenset({'income <50K', 'workclass_Private', 'occupation_Adm-clerical'})",1.167944829603026,0.8866925520649489,0.07714750775467584
+"frozenset({'income <50K', 'age-category_31-40', 'sex_Male'})",0.8773207279388684,0.6660535117056856,0.1223242529406345
+"frozenset({'education_Basic', 'income <50K', 'age-category_31-40'})",1.1222926478994442,0.8520338520338521,0.09585086453118762
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Never-married'})",1.2644147459116006,0.9599315905204007,0.24133165443321766
+"frozenset({'income <50K', 'workclass_Private', 'age-category_31-40'})",0.9574028738050395,0.726851111466496,0.1395841651054943
+"frozenset({'income <50K', 'marital-status_Never-married', 'occupation_Other-service'})",1.307560435562024,0.9926873857404022,0.050029176008107856
+"frozenset({'education_Basic', 'marital-status_Married-civ-spouse', 'income <50K'})",0.9721847814791722,0.7380733944954129,0.14824483277540615
+"frozenset({'income <50K', 'race_White', 'age-category_51-60'})",0.7959564587225648,0.6042825361512792,0.06673627959829244
+"frozenset({'income <50K', 'education_Higher', 'sex_Male'})",0.8341724120074052,0.6332957226382193,0.18961334111360217
+"frozenset({'income <50K', 'marital-status_Never-married', 'sex_Female'})",1.2713243031412698,0.9651772603314452,0.1413040140044839
+"frozenset({'income <50K', 'occupation_Craft-repair', 'workclass_Private'})",1.0199481643547008,0.7743348982785603,0.07598046743036148
+"frozenset({'income <50K', 'race_White', 'age-category_25-30'})",1.1421587840627743,0.8671160327395282,0.1106231381100089
+"frozenset({'education_Basic', 'income <50K', 'sex_Male'})",1.0981632257989675,0.8337150253908195,0.2571481219864255
+"frozenset({'income <50K', 'age-category_41-50', 'marital-status_Married-civ-spouse'})",0.5935400087775721,0.4506099019373355,0.057860630816006876
+"frozenset({'income <50K', 'workclass_Private', 'education_Higher'})",0.9562622520704771,0.7259851623470469,0.23141181167654556
+"frozenset({'income <50K', 'race_White', 'marital-status_Divorced'})",1.1756559321658302,0.8925467474321833,0.10408156997635208
+"frozenset({'income <50K', 'marital-status_Never-married', 'race_White'})",1.2526641100434492,0.9510106200753683,0.2557661005497374
+"frozenset({'income <50K', 'race_White', 'age-category_31-40'})",0.9189419341933523,0.6976519337016576,0.15512422837136453
+"frozenset({'income <50K', 'age-category_41-50', 'race_White'})",0.7900058145349513,0.5997648639570037,0.10967107889806824
+"frozenset({'income <50K', 'race_White', 'occupation_Other-service'})",1.2644630884535413,0.9599682917162108,0.07438346488129971
+"frozenset({'income <50K', 'sex_Female', 'education_Higher'})",1.1548225800495668,0.8767302656191546,0.1439452105279322
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'workclass_Private'})",0.7460301451056602,0.5663789560213728,0.16928227020054668
+"frozenset({'income <50K', 'race_Black', 'workclass_Private'})",1.1809938777543785,0.8965992647058824,0.05991830717729799
+"frozenset({'income <50K', 'race_White', 'occupation_Adm-clerical'})",1.1296933567761787,0.8576523994811933,0.08123214888977612
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'age-category_31-40'})",0.7203940788817129,0.5469162995594713,0.07625687171769908
+"frozenset({'income <50K', 'marital-status_Divorced', 'education_Higher'})",1.161851134263202,0.8820662768031189,0.05558797334234206
+"frozenset({'income <50K', 'marital-status_Never-married', 'education_Higher'})",1.252388721620234,0.9508015478164732,0.15847179140689782
+"frozenset({'income <50K', 'sex_Male', 'age-category_25-30'})",1.1227131880755634,0.8523531221162719,0.08510180891250269
+"frozenset({'income <50K', 'workclass_Private', 'race_White'})",1.0095489436335483,0.7664399092970522,0.45674272903166363
+"frozenset({'education_Basic', 'sex_Female', 'income <50K'})",1.2475723174914595,0.94714497983443,0.13703510334449187
+"frozenset({'income <50K', 'occupation_Adm-clerical', 'education_Higher'})",1.1276198971093856,0.8560782487191428,0.05644789779183686
+"frozenset({'income <50K', 'marital-status_Never-married', 'sex_Male'})",1.2448315727083157,0.9450642325895876,0.17170848561162128
+"frozenset({'income <50K', 'occupation_Machine-op-inspct', 'workclass_Private'})",1.162269229272716,0.8823836905384214,0.05184115966954332
+"frozenset({'income <50K', 'age-category_41-50', 'sex_Male'})",0.7054957089702908,0.5356055995130858,0.08107859095236633
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'education_Higher'})",0.6092137808338318,0.4625092798812175,0.09566659500629587
+"frozenset({'income <50K', 'sex_Female', 'marital-status_Divorced'})",1.228952486410674,0.9330089820359282,0.07656398759251866
+"frozenset({'income <50K', 'race_White', 'occupation_Exec-managerial'})",0.6604026312472594,0.5013713658804169,0.05614078191701729
+"frozenset({'income <50K', 'sex_Female', 'race_White'})",1.1605073045838454,0.8810460541541311,0.23383802708762016
+"frozenset({'income <50K', 'workclass_Self-emp-not-inc', 'race_White'})",0.9398073279828875,0.7134927412467976,0.05131906268235005
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K'})",1.1634701299064774,0.88329540282203,0.2979945333374282
+"frozenset({'income <50K', 'age-category_41-50', 'education_Higher'})",0.7504420211279359,0.5697284101312176,0.05733853382881361
+"frozenset({'income <50K', 'marital-status_Never-married', 'age-category_25-30'})",1.265866766425946,0.961033950617284,0.07650256441755475
+"frozenset({'income <50K', 'age-category_-25', 'education_Higher'})",1.2990507236686994,0.9862268938021023,0.08356622953840484
+"frozenset({'income <50K', 'occupation_Craft-repair', 'marital-status_Married-civ-spouse'})",0.8892590934219894,0.6751170046801873,0.05316175793126747
+"frozenset({'education_Basic', 'income <50K', 'age-category_25-30'})",1.2343732373082454,0.9371243643088304,0.06225238782592672
+"frozenset({'income <50K', 'workclass_Private', 'occupation_Sales'})",1.010952003018443,0.7675050985723998,0.06934676453425878
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Divorced'})",1.1926103815117906,0.905418403334402,0.08672952304904641
+"frozenset({'income <50K', 'age-category_41-50', 'workclass_Private'})",0.840333290722881,0.6379730028767426,0.08854150671048186
+"frozenset({'education_Basic', 'income <50K', 'marital-status_Divorced'})",1.255469040695402,0.9531400966183574,0.060593962101901044
+"frozenset({'income <50K', 'age-category_-25', 'marital-status_Never-married'})",1.3112713804500062,0.9955046996322029,0.14962685421209423
+"frozenset({'income <50K', 'age-category_-25', 'sex_Male'})",1.2982649039589582,0.985630306988896,0.09268757102054605
+"frozenset({'income <50K', 'workclass_Private', 'sex_Male'})",0.9437353254740026,0.7164748394004283,0.328828967169313
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'race_White'})",0.7175310683231613,0.5447427293064877,0.22434814655569546
+"frozenset({'education_Basic', 'age-category_-25', 'income <50K'})",1.3072746492519736,0.9924704195051991,0.08500967415005682
+"frozenset({'income <50K', 'age-category_-25', 'race_White'})",1.3034172736743135,0.9895419368332985,0.1452965203771383
+"frozenset({'income <50K', 'occupation_Craft-repair', 'race_White'})",1.0162422269647449,0.7715213860314023,0.08752802432357729
+"frozenset({'income <50K', 'age-category_41-50', 'sex_Female'})",1.082483464264219,0.821811100292113,0.05184115966954332
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K'})",1.2997649129058948,0.9867690994451558,0.1420103805165689
+"frozenset({'income <50K', 'sex_Female', 'occupation_Other-service'})",1.279872100862999,0.9716666666666666,0.05371456650594269
+"frozenset({'income <50K', 'workclass_Private', 'age-category_25-30'})",1.162130224134512,0.882278159166031,0.10656920856239059
+"frozenset({'education_Basic', 'income <50K', 'occupation_Other-service'})",1.2773530842219247,0.9697542533081286,0.06302017751297564
+"frozenset({'income <50K', 'age-category_31-40', 'education_Higher'})",0.8725169889255929,0.662406558958283,0.08436473081293572
+"frozenset({'education_Basic', 'age-category_-25', 'income <50K', 'sex_Male'})",1.3054807081757893,0.991108476585655,0.051349774269832005
+"frozenset({'income <50K', 'workclass_Private', 'sex_Female', 'education_Higher'})",1.1647815043511043,0.8842909857670005,0.10303737600196554
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'age-category_-25'})",1.309805368007796,0.9943917169974116,0.07079020914591075
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K', 'sex_Female'})",1.3128738925141916,0.9967213114754099,0.056017935567089464
+"frozenset({'income <50K', 'race_White', 'education_Higher', 'age-category_25-30'})",1.0902376557227893,0.8276980083371932,0.05488160683025706
+"frozenset({'income <50K', 'age-category_-25', 'race_White', 'education_Higher'})",1.3006587588522838,0.9874476987447699,0.07247934645741838
+"frozenset({'income <50K', 'race_White', 'education_Higher', 'age-category_31-40'})",0.8445462653427227,0.6411714529428489,0.0692546297718129
+"frozenset({'income <50K', 'workclass_Private', 'age-category_31-40', 'marital-status_Married-civ-spouse'})",0.7243741944518056,0.5499379652605458,0.05445164460550966
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'race_White', 'age-category_31-40'})",0.7081160082812387,0.5375949057065882,0.06741193452289548
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K', 'sex_Male'})",1.2913652516022591,0.9803921568627452,0.08599244494947944
+"frozenset({'income <50K', 'workclass_Private', 'sex_Male', 'marital-status_Married-civ-spouse'})",0.7444538918956456,0.5651822796492847,0.15045606707410705
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'education_Higher'})",0.9371712322263631,0.7114914425427872,0.19661558305948834
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'age-category_31-40'})",0.9302501794357212,0.7062370454117204,0.11510702988237462
+"frozenset({'income <50K', 'workclass_Private', 'sex_Female', 'occupation_Adm-clerical'})",1.2159731795087165,0.9231552162849873,0.055710819692269896
+"frozenset({'income <50K', 'age-category_-25', 'marital-status_Never-married', 'race_White'})",1.3128008691389768,0.9966658728268636,0.1285279936119898
+"frozenset({'income <50K', 'education_Higher', 'marital-status_Never-married', 'sex_Female'})",1.2739325519430305,0.9671574178935448,0.07868308712877368
+"frozenset({'education_Basic', 'age-category_-25', 'income <50K', 'race_White'})",1.3066505774531536,0.9919966301600674,0.0723257885200086
+"frozenset({'education_Basic', 'occupation_Craft-repair', 'income <50K', 'race_White'})",1.0733301554909682,0.8148619957537155,0.058935536377875374
+"frozenset({'education_Basic', 'age-category_41-50', 'income <50K', 'race_White'})",1.0154208873125132,0.7708978328173375,0.053530296981050954
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'age-category_31-40'})",1.1343777077690371,0.8612087139845398,0.07527410091827647
+"frozenset({'education_Basic', 'marital-status_Married-civ-spouse', 'income <50K', 'race_White'})",0.9609009113099539,0.7295067881079224,0.13037068886090722
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Never-married', 'race_White'})",1.2606998471309023,0.9571112748710391,0.1994410491078284
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'marital-status_Married-civ-spouse'})",0.9819971923437705,0.7455228830422286,0.10355947298915881
+"frozenset({'income <50K', 'age-category_-25', 'marital-status_Never-married', 'sex_Female'})",1.314270656553039,0.9977817213842058,0.06907036024692116
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'education_Higher', 'sex_Male'})",0.6098483831592986,0.4629910639015343,0.08433401922545376
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'sex_Male'})",0.9264411565750689,0.7033452716604435,0.28346795245846257
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'sex_Male'})",1.1167930364611178,0.8478585995921143,0.1915174595374835
+"frozenset({'income <50K', 'marital-status_Never-married', 'education_Higher', 'sex_Male'})",1.2318453067443926,0.9352051835853132,0.07978870427812414
+"frozenset({'income <50K', 'occupation_Craft-repair', 'race_White', 'sex_Male'})",1.0073308570174375,0.764755959137344,0.08276772826387396
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'age-category_25-30'})",1.1491424734671087,0.8724179829890645,0.08820367924818034
+"frozenset({'income <50K', 'occupation_Craft-repair', 'workclass_Private', 'sex_Male'})",1.0073165336473602,0.7647450849716761,0.07048309327109119
+"frozenset({'income <50K', 'sex_Male', 'race_White', 'age-category_25-30'})",1.1133413276313762,0.8452380952380952,0.07195724947022511
+"frozenset({'income <50K', 'age-category_41-50', 'workclass_Private', 'sex_Male'})",0.7198855386274466,0.5465302206587783,0.05248610300666441
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'occupation_Adm-clerical'})",1.1626864255185505,0.8827004219409283,0.06424864101225393
+"frozenset({'education_Basic', 'income <50K', 'sex_Female', 'race_White'})",1.2375919126594117,0.93956795187312,0.10552501458800405
+"frozenset({'education_Basic', 'income <50K', 'marital-status_Divorced', 'race_White'})",1.2527198418531147,0.9510529311326124,0.05131906268235005
+"frozenset({'income <50K', 'age-category_41-50', 'marital-status_Married-civ-spouse', 'race_White'})",0.5823789048620513,0.4421364985163205,0.05033629188292743
+"frozenset({'income <50K', 'occupation_Craft-repair', 'sex_Male', 'marital-status_Married-civ-spouse'})",0.8900651042662852,0.6757289204097715,0.05267037253155615
+"frozenset({'income <50K', 'workclass_Private', 'education_Higher', 'marital-status_Married-civ-spouse'})",0.5947933564377835,0.45156143150216543,0.0608396548017567
+"frozenset({'income <50K', 'age-category_-25', 'race_White', 'sex_Female'})",1.3085064069438281,0.9934055581723974,0.06477073799944719
+"frozenset({'income <50K', 'race_White', 'marital-status_Divorced', 'sex_Female'})",1.227841219683819,0.9321653189577719,0.06372654402506066
+"frozenset({'income <50K', 'workclass_Private', 'sex_Female', 'age-category_-25'})",1.3070758703314294,0.9923195084485407,0.059519056540032554
+"frozenset({'income <50K', 'sex_Male', 'marital-status_Never-married', 'race_White'})",1.2420987827568855,0.9429895245769542,0.14376094100304046
+"frozenset({'education_Basic', 'income <50K', 'sex_Male', 'age-category_31-40'})",1.0833267533372628,0.8224513172966782,0.06615275943613526
+"frozenset({'income <50K', 'race_White', 'sex_Male', 'age-category_31-40'})",0.8601052118197395,0.6529836564044089,0.10552501458800405
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'occupation_Sales'})",0.9891658388624407,0.7509652509652509,0.05973403765240625
+"frozenset({'education_Basic', 'workclass_Private', 'marital-status_Never-married', 'income <50K'})",1.304494243816308,0.9903595622720167,0.11673474401891834
+"frozenset({'income <50K', 'workclass_Private', 'education_Higher', 'sex_Male'})",0.8361222303312665,0.6347760060744114,0.12837443567458
+"frozenset({'education_Basic', 'sex_Male', 'income <50K', 'race_White'})",1.0864423940433499,0.8248166819431715,0.22109271828260804
+"frozenset({'income <50K', 'marital-status_Never-married', 'age-category_25-30', 'race_White'})",1.2589210337107641,0.9557608167233835,0.06037898098952735
+"frozenset({'income <50K', 'age-category_-25', 'race_White', 'sex_Male'})",1.2993524768604763,0.9864559819413092,0.0805257823776911
+"frozenset({'income <50K', 'workclass_Private', 'education_Higher', 'age-category_25-30'})",1.1029986302515222,0.837386018237082,0.050766254107674824
+"frozenset({'education_Basic', 'occupation_Craft-repair', 'income <50K', 'workclass_Private'})",1.0914974138228117,0.8286544046466602,0.05257823776911028
+"frozenset({'income <50K', 'age-category_-25', 'marital-status_Never-married', 'education_Higher'})",1.3087557748464143,0.9935948759007205,0.07622616013021713
+"frozenset({'education_Basic', 'income <50K', 'age-category_25-30', 'race_White'})",1.2280424681988182,0.9323181049069375,0.050766254107674824
+"frozenset({'education_Basic', 'occupation_Craft-repair', 'income <50K', 'sex_Male'})",1.0725177757783166,0.8142452448401457,0.06179171401369737
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'age-category_25-30'})",1.2472074935021684,0.9468680089485458,0.0519947176069531
+"frozenset({'income <50K', 'education_Higher', 'race_White', 'sex_Female'})",1.1455427796608153,0.8696851298552056,0.11621264703172507
+"frozenset({'education_Basic', 'marital-status_Married-civ-spouse', 'income <50K', 'sex_Male'})",0.9736456695353966,0.7391824867453396,0.1327354810970179
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Never-married', 'sex_Male'})",1.2543311568565068,0.9522762260831316,0.13298117379687355
+"frozenset({'income <50K', 'workclass_Private', 'sex_Female', 'marital-status_Divorced'})",1.2355598246580186,0.9380252100840336,0.0548508952427751
+"frozenset({'income <50K', 'age-category_31-40', 'education_Higher', 'sex_Male'})",0.7800395636805987,0.5921985815602837,0.051288351094868095
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'age-category_31-40', 'sex_Male'})",0.7343727385537429,0.5575287643821911,0.06845612849728203
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Never-married', 'education_Higher'})",1.2520368721276607,0.9505344270444942,0.11744111053100335
+"frozenset({'income <50K', 'race_White', 'education_Higher', 'sex_Male'})",0.8196709801041877,0.6222863741339493,0.16550474494026596
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K', 'race_White'})",1.2988344722212826,0.9860627177700348,0.11298793034611959
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'marital-status_Married-civ-spouse'})",0.7301894251079619,0.5543528327959466,0.14784558213814072
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'race_White', 'sex_Male'})",0.721413537166279,0.5476902625456963,0.20245078468106018
+"frozenset({'income <50K', 'workclass_Private', 'age-category_31-40', 'sex_Male'})",0.8848708190454149,0.6717854687141874,0.0900156629096158
+"frozenset({'income <50K', 'workclass_Private', 'age-category_-25', 'sex_Male'})",1.3016076589833883,0.9881680946552427,0.07438346488129971
+"frozenset({'income <50K', 'workclass_Private', 'age-category_25-30', 'sex_Male'})",1.133063335519474,0.8602108551347131,0.06765762722275115
+"frozenset({'income <50K', 'marital-status_Never-married', 'sex_Female', 'race_White'})",1.2664912349183515,0.9615080411283944,0.11200515954669697
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'occupation_Other-service'})",1.2843374134983012,0.9750566893424036,0.05282393046896594
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Never-married', 'sex_Female'})",1.2770143830189133,0.9694971145919209,0.10835048063634409
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Never-married', 'age-category_-25'})",1.3134291493296348,0.9971428571428571,0.1179017843432327
+"frozenset({'income <50K', 'workclass_Private', 'education_Higher', 'age-category_-25'})",1.298756946526971,0.9860038610038612,0.06274377322563804
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'occupation_Other-service'})",1.2711716646650226,0.9650613786591123,0.06277448481312
+"frozenset({'income <50K', 'age-category_41-50', 'marital-status_Married-civ-spouse', 'sex_Male'})",0.5922288256497231,0.44961446423823453,0.05193329443198919
+"frozenset({'education_Basic', 'age-category_-25', 'marital-status_Never-married', 'income <50K'})",1.3138677121497415,0.9974758098443416,0.07281717391971991
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'sex_Female'})",1.2580458936229015,0.9550964187327823,0.10647707379994471
+"frozenset({'income <50K', 'workclass_Private', 'age-category_31-40', 'education_Higher'})",0.8638558422698839,0.6558310991957104,0.060102576702189735
+"frozenset({'education_Basic', 'income <50K', 'race_White', 'age-category_31-40'})",1.0988001502617768,0.8341985723556132,0.0789594914161113
+"frozenset({'income <50K', 'marital-status_Married-civ-spouse', 'race_White', 'education_Higher'})",0.6010722131378359,0.4563282794990112,0.08504038573753878
+"frozenset({'income <50K', 'race_White', 'sex_Female', 'occupation_Adm-clerical'})",1.1961602005017289,0.9081133919843597,0.057062129541476
+"frozenset({'education_Basic', 'workclass_Private', 'income <50K', 'race_White'})",1.149737070387559,0.8728693952882423,0.2469211633549338
+"frozenset({'income <50K', 'marital-status_Never-married', 'education_Higher', 'race_White'})",1.2504586859552653,0.9493362831858407,0.13178342188507725
+"frozenset({'income <50K', 'age-category_-25', 'marital-status_Never-married', 'sex_Male'})",1.3087106348680984,0.993560606060606,0.08055649396517306
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'sex_Female'})",1.1831874549483752,0.898264607546569,0.17327477657320106
+"frozenset({'income <50K', 'age-category_41-50', 'race_White', 'sex_Male'})",0.6896564507835744,0.523580586080586,0.07023740057123552
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'age-category_-25'})",1.304434408834443,0.9903141361256544,0.11618193544424311
+"frozenset({'income <50K', 'workclass_Private', 'race_White', 'marital-status_Divorced'})",1.1881037890647441,0.9019970414201184,0.07490556186849298
+"frozenset({'income <50K', 'occupation_Craft-repair', 'workclass_Private', 'race_White'})",1.014923779229925,0.7705204331121202,0.06774976198519701
+"frozenset({'income <50K', 'workclass_Private', 'marital-status_Never-married', 'age-category_25-30'})",1.266776756259251,0.9617248062015503,0.06096250115168453
+"frozenset({'income <50K', 'age-category_41-50', 'workclass_Private', 'race_White'})",0.8110015533307418,0.6157046281851275,0.07272503915727405
+"frozenset({'workclass_Private', 'education_Basic', 'sex_Male', 'income <50K', 'marital-status_Married-civ-spouse'})",0.9809575297858943,0.7447335811648079,0.09228832038328061
+"frozenset({'sex_Male', 'income <50K', 'education_Higher', 'marital-status_Married-civ-spouse', 'race_White'})",0.6039166762626518,0.45848776871756863,0.07598046743036148
+"frozenset({'sex_Female', 'marital-status_Never-married', 'income <50K', 'education_Higher', 'workclass_Private'})",1.270719028930473,0.9647177419354839,0.058781978440465586
+"frozenset({'education_Basic', 'sex_Male', 'income <50K', 'workclass_Private', 'race_White'})",1.1048022434004843,0.8387553041018388,0.1639077423912042
+"frozenset({'workclass_Private', 'education_Basic', 'income <50K', 'marital-status_Married-civ-spouse', 'race_White'})",0.9662278899871429,0.733550979407333,0.08970854703479623
+"frozenset({'marital-status_Never-married', 'income <50K', 'age-category_-25', 'education_Higher', 'race_White'})",1.3111253408045747,0.9953938277291572,0.06636774054850895
+"frozenset({'education_Basic', 'sex_Male', 'income <50K', 'marital-status_Married-civ-spouse', 'race_White'})",0.9647890717161702,0.7324586423274386,0.11830103498049814
+"frozenset({'education_Basic', 'marital-status_Never-married', 'sex_Male', 'income <50K', 'race_White'})",1.2914092129725263,0.9804255319148936,0.0707594975584288
+"frozenset({'marital-status_Never-married', 'sex_Male', 'income <50K', 'education_Higher', 'workclass_Private'})",1.2338586479507214,0.9367336929867582,0.05865913209053776
+"frozenset({'marital-status_Never-married', 'income <50K', 'age-category_-25', 'education_Higher', 'workclass_Private'})",1.3108497353342994,0.9951845906902087,0.057123552716439915
+"frozenset({'marital-status_Never-married', 'sex_Male', 'income <50K', 'workclass_Private', 'race_White'})",1.2508516997892047,0.949634655532359,0.11175946684684131
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K', 'workclass_Private', 'race_White'})",1.3040882661157986,0.9900513478818999,0.09474524738183716
+"frozenset({'education_Basic', 'income <50K', 'age-category_-25', 'workclass_Private', 'race_White'})",1.3093130398448667,0.9940179461615154,0.06123890543902214
+"frozenset({'workclass_Private', 'income <50K', 'education_Higher', 'marital-status_Married-civ-spouse', 'race_White'})",0.584755173794317,0.44394053917863446,0.054113817143208134
+"frozenset({'income <50K', 'age-category_-25', 'education_Higher', 'workclass_Private', 'race_White'})",1.299639740776879,0.9866740699611328,0.05457449095543749
+"frozenset({'sex_Female', 'marital-status_Never-married', 'income <50K', 'education_Higher', 'race_White'})",1.2725315921037403,0.9660938225731537,0.06388010196247045
+"frozenset({'marital-status_Never-married', 'sex_Male', 'income <50K', 'age-category_-25', 'workclass_Private'})",1.3127703274273785,0.996642685851319,0.06381867878750652
+"frozenset({'education_Basic', 'age-category_31-40', 'income <50K', 'workclass_Private', 'race_White'})",1.1114156075193378,0.8437761069340016,0.062037406713553025
+"frozenset({'sex_Female', 'marital-status_Never-married', 'income <50K', 'age-category_-25', 'workclass_Private'})",1.314207417695756,0.9977337110481586,0.05408310555572617
+"frozenset({'education_Basic', 'sex_Male', 'income <50K', 'workclass_Private', 'age-category_31-40'})",1.097116259368186,0.8329201784828953,0.05159546696968766
+"frozenset({'sex_Male', 'income <50K', 'education_Higher', 'workclass_Private', 'race_White'})",0.8195116179298509,0.6221653878942881,0.11206658272166088
+"frozenset({'sex_Female', 'income <50K', 'education_Higher', 'workclass_Private', 'race_White'})",1.1574309315078963,0.8787105011171401,0.08454900033782746
+"frozenset({'education_Basic', 'sex_Male', 'age-category_31-40', 'income <50K', 'race_White'})",1.0665434312062765,0.8097095795405287,0.05736924541629557
+"frozenset({'marital-status_Never-married', 'income <50K', 'education_Higher', 'workclass_Private', 'race_White'})",1.248934132763708,0.9481788569736452,0.09833850311722613
+"frozenset({'sex_Female', 'education_Basic', 'income <50K', 'workclass_Private', 'race_White'})",1.2501304355977962,0.9490870786516853,0.08301342096372961
+"frozenset({'workclass_Private', 'sex_Male', 'income <50K', 'education_Higher', 'marital-status_Married-civ-spouse'})",0.5944671198411388,0.45131375579598143,0.05380670126838856
+"frozenset({'sex_Male', 'age-category_31-40', 'income <50K', 'workclass_Private', 'race_White'})",0.8683993680208956,0.6592805005213764,0.07766960474186911
+"frozenset({'sex_Male', 'income <50K', 'workclass_Private', 'race_White', 'age-category_25-30'})",1.120094400349609,0.8503649635036497,0.05724639906636774
+"frozenset({'marital-status_Never-married', 'sex_Male', 'income <50K', 'education_Higher', 'race_White'})",1.230381386868799,0.9340937896070977,0.0679033199226068
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K', 'age-category_-25', 'race_White'})",1.3145738835594847,0.9980119284294235,0.06166886766376954
+"frozenset({'sex_Female', 'income <50K', 'age-category_-25', 'workclass_Private', 'race_White'})",1.3077672073918405,0.9928443649373881,0.05113479315745831
+"frozenset({'occupation_Craft-repair', 'sex_Male', 'income <50K', 'workclass_Private', 'race_White'})",1.0046383906532828,0.7627118644067796,0.06357298608765087
+"frozenset({'marital-status_Never-married', 'sex_Male', 'income <50K', 'age-category_-25', 'race_White'})",1.3108293075684379,0.9951690821256038,0.06959245723411443
+"frozenset({'occupation_Craft-repair', 'education_Basic', 'sex_Male', 'income <50K', 'race_White'})",1.0676622896942654,0.8105590062111802,0.056110070329535335
+"frozenset({'sex_Female', 'marital-status_Never-married', 'income <50K', 'age-category_-25', 'race_White'})",1.3151365849017844,0.9984391259105099,0.058935536377875374
+"frozenset({'workclass_Private', 'sex_Male', 'income <50K', 'marital-status_Married-civ-spouse', 'race_White'})",0.7317736425746134,0.5555555555555555,0.13328828967169312
+"frozenset({'sex_Male', 'age-category_31-40', 'income <50K', 'marital-status_Married-civ-spouse', 'race_White'})",0.7263635643343377,0.551448275862069,0.06139246337643193
+"frozenset({'sex_Male', 'income <50K', 'age-category_-25', 'workclass_Private', 'race_White'})",1.3018263345550427,0.9883341110592627,0.0650471422867848
+"frozenset({'sex_Female', 'marital-status_Never-married', 'income <50K', 'workclass_Private', 'race_White'})",1.2734794274266639,0.9668134100914324,0.08768158226098707
+"frozenset({'marital-status_Never-married', 'income <50K', 'age-category_-25', 'workclass_Private', 'race_White'})",1.314427005375624,0.9979004199160169,0.10217745155247075
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K', 'age-category_-25', 'workclass_Private'})",1.3158546261552444,0.9989842559674962,0.0604096925770093
+"frozenset({'education_Basic', 'marital-status_Never-married', 'sex_Male', 'income <50K', 'workclass_Private'})",1.2986088224021826,0.9858914065840101,0.0708209207333927
+"frozenset({'education_Basic', 'marital-status_Never-married', 'sex_Male', 'income <50K', 'workclass_Private', 'race_White'})",1.2989170175648663,0.986125385405961,0.058935536377875374
+"frozenset({'marital-status_Never-married', 'sex_Male', 'income <50K', 'age-category_-25', 'workclass_Private', 'race_White'})",1.3135518917458733,0.9972360420121613,0.05540370381745032
+"frozenset({'education_Basic', 'sex_Male', 'income <50K', 'marital-status_Married-civ-spouse', 'workclass_Private', 'race_White'})",0.9680174505223454,0.7349095966620306,0.08114001412733024
+"frozenset({'education_Basic', 'marital-status_Never-married', 'income <50K', 'age-category_-25', 'workclass_Private', 'race_White'})",1.3164149931416038,0.999409681227863,0.0519947176069531

@@ -1,0 +1,8 @@
+numpy
+pandas
+jupyterlab
+jupyterlab-lsp
+matplotlib
+pyyaml
+seaborn
+missingno

@@ -1,0 +1,61 @@
+,lift,confidence,support
+"frozenset({'income >50K', 'education_University'})",2.5846934218778155,0.6224188790560472,0.05184115966954332
+"frozenset({'marital-status_Married-civ-spouse', 'income >50K'})",1.8556086200957709,0.44684829059829057,0.20552194342925587
+"frozenset({'income >50K', 'occupation_Exec-managerial'})",2.009944197742729,0.4840137727496311,0.060440404164491264
+"frozenset({'age-category_31-40', 'income >50K'})",1.1691197979930692,0.28153522115609647,0.07389207948158841
+"frozenset({'workclass_Private', 'income >50K'})",0.9080739826990587,0.21867289390200914,0.1524216086729523
+"frozenset({'income >50K', 'occupation_Prof-specialty'})",1.8646843638079782,0.44903381642512075,0.057092841128957954
+"frozenset({'income >50K', 'capital-gain'})",2.5678500405741094,0.618362831858407,0.05150333220724179
+"frozenset({'education_Basic', 'income >50K'})",0.5401215136330018,0.13006642266503998,0.058935536377875374
+"frozenset({'race_White', 'income >50K'})",1.0624990944739086,0.2558599367270636,0.21857436810908756
+"frozenset({'income >50K', 'sex_Male'})",1.2696197761159305,0.3057365764111978,0.20460059580479714
+"frozenset({'age-category_41-50', 'income >50K'})",1.578878692460307,0.3802090791923242,0.08153926476459568
+"frozenset({'income >50K', 'education_Higher'})",1.1647802999487284,0.28049022855250083,0.1300328613986057
+"frozenset({'marital-status_Married-civ-spouse', 'income >50K', 'sex_Male'})",1.8513769602411867,0.44582926646144605,0.1823654064678603
+"frozenset({'marital-status_Married-civ-spouse', 'workclass_Private', 'income >50K'})",1.8006803740579114,0.4336210439786273,0.1296028991738583
+"frozenset({'marital-status_Married-civ-spouse', 'race_White', 'income >50K'})",1.8905282478065875,0.4552572706935123,0.18749424157734712
+"frozenset({'age-category_41-50', 'marital-status_Married-civ-spouse', 'income >50K'})",2.28142978995261,0.5493900980626644,0.0705445164460551
+"frozenset({'workclass_Private', 'age-category_31-40', 'income >50K'})",1.134294217515549,0.2731488885335039,0.05245539141918246
+"frozenset({'sex_Male', 'income >50K', 'occupation_Exec-managerial'})",2.4113135741770333,0.5806673546611628,0.05184115966954332
+"frozenset({'education_Basic', 'income >50K', 'sex_Male'})",0.6905248129383404,0.16628497460918054,0.051288351094868095
+"frozenset({'income >50K', 'education_Higher', 'sex_Male'})",1.5227978542503429,0.3667042773617807,0.10979392524799607
+"frozenset({'workclass_Private', 'income >50K', 'education_Higher'})",1.1378902090062244,0.27401483765295304,0.08734375479868554
+"frozenset({'race_White', 'income >50K', 'occupation_Exec-managerial'})",2.0706347348001204,0.4986286341195831,0.05583366604219772
+"frozenset({'education_Basic', 'race_White', 'income >50K'})",0.5867705631254037,0.14129995962858297,0.05374527809342465
+"frozenset({'race_White', 'income >50K', 'education_Higher'})",1.2249562388965196,0.2949811697794174,0.11787107275575075
+"frozenset({'marital-status_Married-civ-spouse', 'age-category_31-40', 'income >50K'})",1.881502151516905,0.4530837004405286,0.06317373545038543
+"frozenset({'marital-status_Married-civ-spouse', 'income >50K', 'education_Higher'})",2.2320157298543135,0.5374907201187824,0.11117594668468413
+"frozenset({'age-category_41-50', 'workclass_Private', 'income >50K'})",1.5033747039064385,0.3620269971232574,0.05024415712048156
+"frozenset({'race_White', 'income >50K', 'sex_Male'})",1.3187410690253818,0.31756545321789925,0.18700285617763582
+"frozenset({'marital-status_Married-civ-spouse', 'income >50K', 'occupation_Exec-managerial'})",2.8307406137239495,0.6816693944353518,0.05116550474494026
+"frozenset({'age-category_41-50', 'income >50K', 'sex_Male'})",1.9284716329874267,0.4643944004869142,0.07029882374619945
+"frozenset({'age-category_41-50', 'race_White', 'income >50K'})",1.6620400796704504,0.40023513604299626,0.0731857129695034
+"frozenset({'workclass_Private', 'income >50K', 'sex_Male'})",1.177383338130679,0.2835251605995717,0.13012499616105155
+"frozenset({'race_White', 'income >50K', 'occupation_Prof-specialty'})",1.913112189957548,0.46069569980827174,0.05165689014465158
+"frozenset({'workclass_Private', 'race_White', 'income >50K'})",0.9698954359620819,0.23356009070294786,0.13918491446822887
+"frozenset({'race_White', 'income >50K', 'age-category_31-40'})",1.2555484487616797,0.30234806629834254,0.06722766499800374
+"frozenset({'education_Basic', 'marital-status_Married-civ-spouse', 'income >50K'})",1.0876919017771793,0.2619266055045872,0.052608949356592244
+"frozenset({'age-category_31-40', 'income >50K', 'sex_Male'})",1.3867659233963998,0.33394648829431434,0.06133104020146801
+"frozenset({'workclass_Private', 'race_White', 'income >50K', 'marital-status_Married-civ-spouse'})",1.850620764102944,0.44564716720405345,0.11885384355517337
+"frozenset({'marital-status_Married-civ-spouse', 'race_White', 'income >50K', 'education_Higher'})",2.257683317336143,0.5436717205009888,0.10131752710297595
+"frozenset({'age-category_41-50', 'race_White', 'income >50K', 'sex_Male'})",1.9784074144407646,0.4764194139194139,0.0639108135499524
+"frozenset({'marital-status_Married-civ-spouse', 'race_White', 'income >50K', 'age-category_31-40'})",1.9202107225210787,0.4624050942934117,0.05798347716593471
+"frozenset({'marital-status_Married-civ-spouse', 'race_White', 'income >50K', 'sex_Male'})",1.878288147079401,0.45230973745430375,0.1671938822517736
+"frozenset({'marital-status_Married-civ-spouse', 'age-category_31-40', 'income >50K', 'sex_Male'})",1.8374322029016037,0.4424712356178089,0.05432879825558183
+"frozenset({'workclass_Private', 'race_White', 'income >50K', 'sex_Male'})",1.2319059570800026,0.29665472833955653,0.11956021006725838
+"frozenset({'age-category_41-50', 'marital-status_Married-civ-spouse', 'income >50K', 'sex_Male'})",2.285563503371872,0.5503855357617655,0.06357298608765087
+"frozenset({'workclass_Private', 'income >50K', 'education_Higher', 'sex_Male'})",1.5166507417690456,0.36522399392558846,0.07386136789410645
+"frozenset({'workclass_Private', 'income >50K', 'education_Higher', 'marital-status_Married-civ-spouse'})",2.2774784120466762,0.5484385684978345,0.07389207948158841
+"frozenset({'age-category_41-50', 'marital-status_Married-civ-spouse', 'race_White', 'income >50K'})",2.3166169457735095,0.5578635014836796,0.06351156291268696
+"frozenset({'race_White', 'income >50K', 'sex_Male', 'age-category_31-40'})",1.4410405769437624,0.3470163435955911,0.05607935874205338
+"frozenset({'workclass_Private', 'income >50K', 'sex_Male', 'marital-status_Married-civ-spouse'})",1.8056497630837445,0.43481772035071525,0.11575197321949572
+"frozenset({'race_White', 'income >50K', 'education_Higher', 'sex_Male'})",1.5685159254973196,0.3777136258660509,0.10045760265348117
+"frozenset({'workclass_Private', 'race_White', 'income >50K', 'education_Higher'})",1.198077686438503,0.2885085574572127,0.07972728110316023
+"frozenset({'marital-status_Married-civ-spouse', 'income >50K', 'education_Higher', 'sex_Male'})",2.230015045058302,0.5370089360984658,0.09781640613003287
+"frozenset({'workclass_Private', 'income >50K', 'sex_Male', 'marital-status_Married-civ-spouse', 'race_White'})",1.845626266490952,0.4444444444444444,0.1066306317373545
+"frozenset({'income >50K', 'sex_Male', 'age-category_41-50', 'marital-status_Married-civ-spouse', 'race_White'})",2.3167596342509276,0.5578978622327792,0.057707072878597096
+"frozenset({'workclass_Private', 'income >50K', 'sex_Male', 'education_Higher', 'marital-status_Married-civ-spouse'})",2.2785069248217127,0.5486862442040186,0.06541568133656829
+"frozenset({'workclass_Private', 'income >50K', 'education_Higher', 'marital-status_Married-civ-spouse', 'race_White'})",2.3091253799010945,0.5560594608213656,0.06778047357267897
+"frozenset({'income >50K', 'sex_Male', 'education_Higher', 'workclass_Private', 'race_White'})",1.5690183401063746,0.37783461210571184,0.06805687786001659
+"frozenset({'income >50K', 'sex_Male', 'education_Higher', 'marital-status_Married-civ-spouse', 'race_White'})",2.2487156947822027,0.5415122312824314,0.08973925862227819
+"frozenset({'income >50K', 'sex_Male', 'education_Higher', 'marital-status_Married-civ-spouse', 'workclass_Private', 'race_White'})",2.302221096088594,0.5543968432919955,0.0604096925770093
